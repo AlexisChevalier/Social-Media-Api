@@ -1,0 +1,16 @@
+{
+    "name": "heavenstar.fr/socialMediaApi",
+    "description": "2JWB TP",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "CHEVALIER Alexis",
+            "email": "alexis.chevalier1@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk": "v3.2.3",
+        "j7mbo/twitter-api-php": "dev-master",
+        "google/apiclient": "1.0.4-beta"
+    }
+}
